@@ -35,7 +35,9 @@
 [Adobe](https://www.adobe.com)
 
 
-! [fox] (https://github.com/OUTTFOX/Practica7Mayo/blob/main/keonig.jpg)
+![fox](https://github.com/OUTTFOX/Practica7Mayo/blob/main/keonig.jpg)
+
+[Descargar Certificado](https://github.com/OUTTFOX/Practica7Mayo/blob/main/_certificate_322030075-upjr-edu-mx_ebb60c38-5b08-4a55-8bec-f0b855120a74%20(1).pdf)
 
 
 
