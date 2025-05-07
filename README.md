@@ -36,6 +36,10 @@
 
 ![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
 
+https://github.com/OUTTFOX/Practica7Mayo/edit/main/README.md
+
+keonig.jpg
+
 
 
 
