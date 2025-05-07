@@ -35,9 +35,9 @@
 [Adobe](https://www.adobe.com)
 
 
-
-
 ! [fox] (https://github.com/OUTTFOX/Practica7Mayo/blob/main/keonig.jpg)
+
+
 
 
 
